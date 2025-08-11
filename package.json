@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"express": "^5.1.0",
+		"express-session": "^1.18.2",
+		"node-fetch": "^3.3.2",
+		"spotify-web-api-node": "^5.0.2"
+	}
+}
